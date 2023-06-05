@@ -1,0 +1,35 @@
+html {
+  font-size: 20px;
+}
+.container1 {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+}
+.container1 div {
+  width: 250px;
+  height: 250px;
+  border: solid;
+  background-color: burlywood;
+  margin: 1em;
+}
+.container2 {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(122, 122, 212);
+}
+.container2 div {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(175, 175, 228);
+  margin: 1em;
+}
+.container3 {
+  width: 400px;
+  height: 400px;
+  background-color: midnightblue;
+}
+.container3 div {
+  color: rgb(11, 124, 223);
+  background-color: aqua;
+}
